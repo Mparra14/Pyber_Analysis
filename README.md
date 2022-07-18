@@ -10,7 +10,7 @@ Having all of this considered, it can be said that while this data still depends
 
 ![Pyber_summary](https://github.com/Mparra14/Pyber_Analysis/blob/main/Pyber_Summary.png)
 
-![]
+![pyber_fare_summary](https://github.com/Mparra14/Pyber_Analysis/blob/main/Pyber_Analysis/analysis/PyBer_fare_summary.png)
 
 ## Summary:
 
